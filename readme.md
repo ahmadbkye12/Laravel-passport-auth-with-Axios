@@ -1,4 +1,4 @@
-##<p align="center">Laravel Passport Auth App - By Ahmad Al-Rezej</p>
+<h2 align="center">Laravel Passport Auth App - By Ahmad Al-Rezej</h2>
 
 ## Laravel Passport?
 
